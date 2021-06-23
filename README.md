@@ -13,4 +13,4 @@ numpy.norm(1)
 
 **[link](https://www.moodle.tum.de/)**
 
-![image name](images/filename quanyecha.jpg)
+![name](images/quanyecha.jpg)
