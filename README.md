@@ -1,3 +1,16 @@
 # hello-world
-my first git repository 
-I have some changes here 
+## subtitle 
+this is the first paragraph
+
+`a=b`
+
+```python
+numpy.norm(1)
+```
+- list my
+
+1. list 
+
+**[link](https://www.moodle.tum.de/)**
+
+![image name](images/filename quanyecha.jpg)
