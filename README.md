@@ -5,3 +5,5 @@ this is the first paragraph
 ```python
 numpy.norm(1)
 ```
+- list my
+1. list 
