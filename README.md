@@ -4,7 +4,7 @@
 - Insert code in paragraph `a=b`
 - Insert code in separate paragraph  
   ```python
-  numpy.norm(1)
+  import numpy as np
   ```
 - Insert link 
 
